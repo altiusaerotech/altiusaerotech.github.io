@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=3.exp&amp;language=en_US&amp;region=in"></script>
+    <script src="https://maps.gstatic.com/maps-api-v3/embed/js/36/2/init_embed.js"></script>
+    <script>
+      initEmbed([null,null,null,null,["En7J5lS-9HLcV6HEqoMSfg","anzal.ansari@gmail.com",null,"Anzal","https://plus.google.com/112498099862295921745?socpid=247\u0026socfid=maps_embed:logincontrol","Anzal Ansari","AO3-rN-TQMRnd9PIC0h7qaTS6EagWDFkrg:1550611537387"],[[[2,"spotlight",null,[["gid","B2x9kbkHnB2hx4ObTWFa0g"]],null,null,null,[[null,null,null,null,null,null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,1]],["0x3bae17efc0125ced:0x349f09f863e9ff6d","5th Cross Rd, RMV Extension, Patelappa Layout, Nagashetty Halli, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094",null,[null,null,13.0439443,77.5751253],3,1],null,null,null,null,null,null,null,null,11,null,[null,"hh,hplexp,a",null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,[null,null,null,null,0,0,null,null,1,0,0,1],null,null,null,[null,null,null,null,null,2,3,2]],null,null,null,null,null,[14,29,50,53]]]]],null,["en_US","in"],[null,"/maps/api/js/ApplicationService.UpdateStarring","//accounts.google.com/ServiceLogin?continue=https://www.google.com/maps/api/js/ApplicationService.AuthSuccess","/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204","/maps/api/js/ApplicationService.Search"],null,null,null,null,null,null,null,null,"UXRsXPfmF8u2ggeTqLToDQ",null,null,null,[[[3453.762052414236,77.5751253,13.0439443],[0,0,0],null,13.10000038146973],null,0,[["0x3bae17efc0125ced:0x349f09f863e9ff6d","5th Cross Rd, RMV Extension, Patelappa Layout, Nagashetty Halli, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094",[13.0439443,77.5751253]],"5th Cross Rd",["RMV Extension, Patelappa Layout, Nagashetty Halli, R.M.V. 2nd Stage","Bengaluru, Karnataka 560094"],null,null,null,null,null,null,null,null,null,null,"RMV Extension, Patelappa Layout, Nagashetty Halli, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094",null,null,null,null,null,[null,null,null,null,null,null,null,1],null,null,null,1,1,null,null,"ChIJ7VwSwO8XrjsRbf_pY_gJnzQ",null,null,"0ahUKEwi30_uO3sjgAhVLm-AKHRMUDd0Q8BcIAigAMAA"]],null,null,[null,null,null,null,null,null,null,null,null,[0,0]],0,null,null,null,null,null,null,[1]]);
+    </script>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+  </body>
+</html>
